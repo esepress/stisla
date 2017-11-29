@@ -1,4 +1,4 @@
-![stisla's preview](https://themequarry.com/storage/images/approved/ASFEDAB5_v1.0.0_59ada4646e65d.png "Preview")
+
 
 # Stisla
 Stisla is HTML5 and CSS3 Template Based on Bootstrap 4
@@ -20,7 +20,7 @@ Stisla is HTML5 and CSS3 Template Based on Bootstrap 4
 - and more ...
 
 # Demo
-[Hit me!](https://nauvalazhar.github.io/stisla)
+
 
 # Credits
 - Bootstrap 4
@@ -33,5 +33,3 @@ Stisla is HTML5 and CSS3 Template Based on Bootstrap 4
 # License
 MIT License
 
-# Support
-[Support Us](https://www.patreon.com/itskodinger)
